@@ -1,0 +1,6 @@
+2020-05-23 14:55:45 PM - root - WARNING -log: 警告warn
+2020-05-23 14:55:45 PM - root - ERROR -log: 错误error
+2020-05-23 14:55:45 PM - root - CRITICAL -log: 严重critical
+2020-05-23 15:45:08 PM - root - WARNING -log: 警告warn
+2020-05-23 15:45:08 PM - root - ERROR -log: 错误error
+2020-05-23 15:45:08 PM - root - CRITICAL -log: 严重critical
